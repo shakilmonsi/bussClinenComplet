@@ -1,0 +1,32 @@
+Home:
+1. Shifting button not working in "from" & "to" input box
+2. Increase the padding in newsletter section
+3. Remove extra area from newsletter bottom
+
+How To Work:
+1. Footer will be always bottom of the page
+
+
+Blog:
+1. Pagination select according to page selection
+2. Previous and next button will be disabled when it's not applicable
+
+profile:
+1. Ticket pagination visible only when more then 1 page
+2. Change the review modal design
+
+
+Checkout:
+1. Validation fields problem with typing
+
+
+
+=========TODO=========
+1. PayPal provider wrap only payment section not checkout page
+
+
+
+
+
+0qB%CHm@
+

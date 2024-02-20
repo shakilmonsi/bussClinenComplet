@@ -1,0 +1,67 @@
+.ra-ripple {
+  display: inline-block;
+  position: relative;
+  width: 80px;
+  height: 80px;
+}
+.ra-ripple div {
+  position: absolute;
+  border-style: solid;
+  border-color: #fff;
+  border-width: 4px;
+  opacity: 1;
+  border-radius: 50%;
+  animation: raRipple 1s cubic-bezier(0, 0.2, 0.8, 1) infinite;
+}
+
+.ra-ripple.primary div {
+  background: rgba(var(--bs-primary-rgb));
+}
+.ra-ripple.secondary div {
+  background: rgba(var(--bs-secondary-rgb));
+}
+.ra-ripple.success div {
+  background: rgba(var(--bs-success-rgb));
+}
+.ra-ripple.info div {
+  background: rgba(var(--bs-info-rgb));
+}
+.ra-ripple.warning div {
+  background: rgba(var(--bs-warning-rgb));
+}
+.ra-ripple.danger div {
+  background: rgba(var(--bs-danger-rgb));
+}
+.ra-ripple.light div {
+  background: rgba(var(--bs-light-rgb));
+}
+.ra-ripple.dark div {
+  background: rgba(var(--bs-dark-rgb));
+}
+.ra-ripple.black div {
+  background: rgba(var(--bs-black-rgb));
+}
+.ra-ripple.white div {
+  background: rgba(var(--bs-white-rgb));
+}
+
+.ra-ripple div:nth-child(2) {
+  animation-delay: -0.5s;
+}
+
+@keyframes raRipple {
+  0% {
+    top: 36px;
+    left: 36px;
+    width: 0;
+    height: 0;
+    opacity: 1;
+  }
+  100% {
+    top: 0px;
+    left: 0px;
+    width: 72px;
+    height: 72px;
+    opacity: 0;
+  }
+}

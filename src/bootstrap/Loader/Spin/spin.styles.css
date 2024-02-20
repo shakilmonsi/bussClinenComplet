@@ -1,0 +1,62 @@
+@-webkit-keyframes spinnerBorder {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes spinnerBorder {
+  to {
+    transform: rotate(360deg);
+  }
+}
+.spinner-border {
+  display: inline-block;
+  width: 2rem;
+  height: 2rem;
+  vertical-align: -0.125em;
+  border: 0.15em solid currentColor;
+  border-right-color: transparent;
+  border-radius: 50%;
+  -webkit-animation: 0.75s linear infinite spinnerBorder;
+  animation: 0.75s linear infinite spinnerBorder;
+}
+
+.spinner-border.primary {
+  color: rgba(var(--bs-primary-rgb));
+}
+
+.spinner-border.secondary {
+  color: rgba(var(--bs-secondary-rgb));
+}
+
+.spinner-border.success {
+  color: rgba(var(--bs-success-rgb));
+}
+
+.spinner-border.info {
+  color: rgba(var(--bs-info-rgb));
+}
+
+.spinner-border.warning {
+  color: rgba(var(--bs-warning-rgb));
+}
+
+.spinner-border.danger {
+  color: rgba(var(--bs-danger-rgb));
+}
+
+.spinner-border.light {
+  color: rgb(221 221 221);
+}
+
+.spinner-border.dark {
+  color: rgba(var(--bs-dark-rgb));
+}
+
+.spinner-border.black {
+  color: rgba(var(--bs-black-rgb));
+}
+
+.spinner-border.white {
+  color: rgba(var(--bs-white-rgb));
+}

@@ -1,0 +1,27 @@
+.Butuon {
+  position: relative;
+  padding: 5px 10px;
+  background: red;
+  border: none;
+  color: white;
+  font-size: 14px;
+  margin: 40px;
+  border-radius: 10px;
+}
+.upperText {
+  position: absolute;
+  background: green;
+  content: "";
+  display: inline-block;
+  padding: 0.35em 0.65em;
+  font-size: 0.75em;
+  font-weight: 700;
+  line-height: 1;
+  color: #fff;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: baseline;
+  border-radius: 0.25rem;
+  border-radius: 50rem !important;
+  transform: translate(-20%, -86%) !important;
+}

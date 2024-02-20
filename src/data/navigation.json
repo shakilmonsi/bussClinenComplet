@@ -1,0 +1,16 @@
+[
+  { "id": 1, "text": "Home", "isTarget": "false", "url": "/" },
+  {
+    "id": 2,
+    "text": "How It Works",
+    "isTarget": "false",
+    "url": "/work"
+  },
+  {
+    "id": 4,
+    "text": "Blog",
+    "isTarget": "false",
+    "url": "/blog"
+  },
+  { "id": 5, "text": "Login", "isLoggedIn": "false", "url": "/login" }
+]

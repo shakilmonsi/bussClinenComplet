@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Binni",
+    "details": "CEO , Bdtask ltd.",
+    "comment": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English flicker",
+    "image": "https://i.ibb.co/sq6z2rC/df024862bae6a62f039c5a9a9c43a69b.png"
+  },
+  {
+    "id": 2,
+    "name": "Oona",
+    "details": "Jardein",
+    "comment": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English raccoon",
+    "image": "https://i.ibb.co/YbkMQxT/3359cd0fa3635dc445850a9e18747d3e.png"
+  },
+  {
+    "id": 3,
+    "name": "Nicholle",
+    "details": "CEO , Bdtask ltd.",
+    "comment": "White-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English vulture",
+    "image": "https://i.ibb.co/rsLvM15/18c9661493193e247740c58712a989a3.png"
+  },
+  {
+    "id": 4,
+    "name": "Lucie",
+    "details": "CEO , Bdtask ltd.",
+    "comment": "Stork, It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English-billed",
+    "image": "https://i.ibb.co/sq6z2rC/df024862bae6a62f039c5a9a9c43a69b.png"
+  },
+  {
+    "id": 5,
+    "name": "Robin",
+    "details": "CEO , Bdtask ltd.",
+    "comment": "Shrike, It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English boubou",
+    "image": "https://i.ibb.co/YbkMQxT/3359cd0fa3635dc445850a9e18747d3e.png"
+  },
+  {
+    "id": 6,
+    "name": "Marcelline",
+    "details": "CEO , Bdtask ltd.",
+    "comment": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English",
+    "image": "https://i.ibb.co/rsLvM15/18c9661493193e247740c58712a989a3.png"
+  }
+]

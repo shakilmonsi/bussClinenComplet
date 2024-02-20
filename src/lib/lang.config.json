@@ -1,0 +1,1014 @@
+{
+  "navigation_home_button": {
+    "en": "Home",
+    "fr": "domicile",
+    "af": "Tuis",
+    "ar": "الصفحة الرئيسية"
+  },
+  "navigation_work_button": {
+    "en": "how to work",
+    "fr": "comment travailler",
+    "af": "hoe om te werk",
+    "ar": "كيف تعمل"
+  },
+  "navigation_blog_button": {
+    "en": "blog",
+    "fr": "blog",
+    "af": "blog",
+    "ar": "مقالات"
+  },
+  "navigation_track_button": {
+    "en": "track",
+    "fr": "Piste",
+    "af": "spoor",
+    "ar": "مسار"
+  },
+  "navigation_login_button": {
+    "en": "login",
+    "fr": "connexion",
+    "af": "teken aan",
+    "ar": "تسجيل الدخول"
+  },
+  "hero_button": {
+    "en": "Book",
+    "fr": "Livre",
+    "af": "Boek",
+    "ar": "الكتاب"
+  },
+  "search_form_from_input": {
+    "en": "from",
+    "fr": "de",
+    "af": "van",
+    "ar": "من"
+  },
+  "search_form_to_input": {
+    "en": "to",
+    "fr": "à",
+    "af": "aan",
+    "ar": "إلى"
+  },
+  "search_form_start_date": {
+    "en": "depart",
+    "fr": "partir",
+    "af": "vertrek",
+    "ar": "تغادر"
+  },
+  "search_form_retrurn_date": {
+    "en": "return (optional)",
+    "fr": "revenir (optionnelle)",
+    "af": "terugkeer (opsioneel)",
+    "ar": "إرجاع (خياري)"
+  },
+  "search_form_button": {
+    "en": "find tickets",
+    "fr": "trouver des billets",
+    "af": "kaartjies vind",
+    "ar": "وجدنا دليلا لكل وجهات النظر من هذه الدراسات"
+  },
+  "search_form_button_booking_page": {
+    "en": "search again",
+    "fr": "chercher à nouveau",
+    "af": "soek weer",
+    "ar": "ابحث ثانيا"
+  },
+  "journey_page_booking_price": {
+    "en": "price",
+    "fr": "le prix",
+    "af": "prys",
+    "ar": "سعر"
+  },
+  "journey_page_booking_btn": {
+    "en": "book now",
+    "fr": "Reserve maintenant",
+    "af": "bespreek nou",
+    "ar": "احجز الآن"
+  },
+  "card_read_more_btn": {
+    "en": "Read More",
+    "fr": "Lire la suite",
+    "af": "Lees meer",
+    "ar": "اقرأ أكثر"
+  },
+  "subscribe_component_input": {
+    "en": "Email Address",
+    "fr": "Adresse e-mail",
+    "af": "E-pos adres",
+    "ar": "عنوان البريد الالكترونى"
+  },
+  "subscribe_component_bnt": {
+    "en": "subscribe",
+    "fr": "s'abonner",
+    "af": "inteken",
+    "ar": "الإشتراك"
+  },
+  "footer_top_about_button": {
+    "en": "about",
+    "fr": "sur",
+    "af": "oor",
+    "ar": "حول"
+  },
+  "footer_top_blog_button": {
+    "en": "blog",
+    "fr": "blog",
+    "af": "blog",
+    "ar": "مقالات"
+  },
+  "footer_top_FAQ_button": {
+    "en": "FAQ",
+    "fr": "FAQ",
+    "af": "Gereelde vrae",
+    "ar": "التعليمات"
+  },
+  "footer_top_contact_button": {
+    "en": "contact",
+    "fr": "Contactez",
+    "af": "Kontak",
+    "ar": "اتصل"
+  },
+  "footer_top_privacy_button": {
+    "en": "privacy",
+    "fr": "intimité",
+    "af": "privaatheid",
+    "ar": "الإجمالية"
+  },
+  "footer_top_cookies_button": {
+    "en": "cookies",
+    "fr": "biscuits",
+    "af": "koekies",
+    "ar": "بسكويت"
+  },
+  "footer_top_terms_button": {
+    "en": "terms and condition",
+    "fr": "termes et conditions",
+    "af": "terme en voorwaarde",
+    "ar": "أحكام وشروط"
+  },
+  "footer_top_download_app": {
+    "en": "Download the app",
+    "fr": "Téléchargez l'application",
+    "af": "Laai die toepassing af",
+    "ar": "قم بتنزيل التطبيق"
+  },
+
+  "footer_bottom_title": {
+    "en": "Follow us on :",
+    "fr": " Suivez-nous sur:",
+    "af": " Volg ons op :",
+    "ar": "اتبعنا"
+  },
+  "blog_page_title": {
+    "en": "blog",
+    "fr": "blog",
+    "af": "blog",
+    "ar": "مقالات"
+  },
+  "blog_page_sub_title": {
+    "en": "home - blog",
+    "fr": "domicile - blog",
+    "af": "tuis - blog",
+    "ar": "مقالات - الصفحة الرئيسية"
+  },
+  "track_title": {
+    "en": "track my ticket",
+    "fr": "suivre mon billet",
+    "af": "volg my kaartjie",
+    "ar": "تتبع تذكرتي"
+  },
+  "track_sub_title": {
+    "en": "ticket booking number:",
+    "fr": "numéro de réservation du billet:",
+    "af": "kaartjiebesprekingsnommer:",
+    "ar": "رقم حجز التذكرة:"
+  },
+  "track_button_text": {
+    "en": "go",
+    "fr": "aller",
+    "af": "gaan",
+    "ar": "يذهب"
+  },
+
+  "login_page_title": {
+    "en": "sing in",
+    "fr": "s'identifier",
+    "af": "teken aan",
+    "ar": "تسجيل الدخول"
+  },
+  "login_page_email_input": {
+    "en": "email or phone number",
+    "fr": "email ou numéro de téléphone",
+    "af": "e-pos of telefoonnommer",
+    "ar": "البريد الإلكتروني أو رقم الهاتف"
+  },
+  "login_page_password_input": {
+    "en": "password",
+    "fr": "le mot de passe",
+    "af": "wagwoord",
+    "ar": "كلمه السر"
+  },
+  "login_page_checkbox_text": {
+    "en": "remember me",
+    "fr": "souviens-toi de moi",
+    "af": "onthou my",
+    "ar": "تذكرنى"
+  },
+  "login_page_forgot_password_link_text": {
+    "en": "Forgot Password?",
+    "fr": "Mot de passe oublié?",
+    "af": "Wagwoord vergeet?",
+    "ar": "هل نسيت كلمة السر؟"
+  },
+  "login_page_submit_button": {
+    "en": "sign in",
+    "fr": "s'identifier",
+    "af": "teken aan",
+    "ar": "تسجيل الدخول"
+  },
+  "login_page_question_text": {
+    "en": "Don’t have an account?",
+    "fr": "Vous n'avez pas de compte ?",
+    "af": "Het jy nie 'n rekening nie?",
+    "ar": "ليس لديك حساب؟"
+  },
+  "login_page_sign_up_link_text": {
+    "en": "sign up",
+    "fr": "S'inscrire",
+    "af": "teken aan",
+    "ar": "اشتراك"
+  },
+  "forgot_page_title": {
+    "en": "forgot password?",
+    "fr": "mot de passe oublié?",
+    "af": "Wagwoord vergeet?",
+    "ar": "هل نسيت كلمة السر؟"
+  },
+  "forgot_page_sub_title": {
+    "en": "Please enter your email address and we will send you a link to reset your password.",
+    "fr": "Veuillez saisir votre adresse e-mail et nous vous enverrons un lien pour réinitialiser votre mot de passe.",
+    "af": "Voer asseblief jou e-posadres in en ons sal vir jou 'n skakel stuur om jou wagwoord terug te stel.",
+    "ar": "يرجى إدخال عنوان بريدك الإلكتروني وسنرسل لك رابطًا لإعادة تعيين كلمة المرور الخاصة بك."
+  },
+  "forgot_page_email_input": {
+    "en": "email",
+    "fr": "e-mail",
+    "af": "e-pos",
+    "ar": "البريد الإلكتروني"
+  },
+  "forgot_page_submit_button": {
+    "en": "Apply",
+    "fr": "Appliquer",
+    "af": "Doen aansoek",
+    "ar": "يتقدم"
+  },
+  "sign_up_page_title": {
+    "en": "sign up",
+    "fr": "S'inscrire",
+    "af": "teken aan",
+    "ar": "اشتراك"
+  },
+  "sign_up_page_sub_title": {
+    "en": "Create an account to easily use bus365 services",
+    "fr": "Créez un compte pour utiliser facilement les services bus365",
+    "af": "Skep 'n rekening om bus365-dienste maklik te gebruik",
+    "ar": "قم بإنشاء حساب لاستخدام خدمات bus365 بسهولة"
+  },
+  "sign_up_page_input_email": {
+    "en": "Email",
+    "fr": "E-mail",
+    "af": "E-pos",
+    "ar": "البريد الإلكتروني"
+  },
+  "sign_up_page_input_phone": {
+    "en": "Phone",
+    "fr": "Téléphoner",
+    "af": "Foon",
+    "ar": "هاتف"
+  },
+  "sign_up_page_input_password": {
+    "en": "Password",
+    "fr": "Mot de passe",
+    "af": "Wagwoord",
+    "ar": "كلمة المرور"
+  },
+  "sign_up_page_input_re_password": {
+    "en": "Re-Password",
+    "fr": "Re-mot de passe",
+    "af": "Her-wagwoord",
+    "ar": "إعادة كلمة المرور"
+  },
+  "sign_up_page_input_name": {
+    "en": "first Name",
+    "fr": "prénom",
+    "af": "eerste naam",
+    "ar": "الاسم الاول"
+  },
+  "sign_up_page_input_last_name": {
+    "en": "last name",
+    "fr": "nom de famille",
+    "af": "van",
+    "ar": "اللقب"
+  },
+  "sign_up_page_checkbox_text": {
+    "en": "By creating an account you agree to our",
+    "fr": "En créant un compte, vous acceptez nos",
+    "af": "Deur 'n rekening te skep, stem jy in tot ons",
+    "ar": "من خلال إنشاء حساب فإنك توافق على"
+  },
+  "sign_up_page_terms_link_text": {
+    "en": "terms and condition",
+    "fr": "termes et conditions",
+    "af": "terme en voorwaarde",
+    "ar": "أحكام وشروط"
+  },
+  "sign_up_page_submit_button": {
+    "en": "sign up",
+    "fr": "S'inscrire",
+    "af": "teken aan",
+    "ar": "اشتراك"
+  },
+  "sign_up_page_qustion_text": {
+    "en": "Already have an Account?",
+    "fr": "Vous avez déjà un compte?",
+    "af": "Reeds 'n rekening?",
+    "ar": "هل لديك حساب؟"
+  },
+  "sign_up_page_sign_in_link_text": {
+    "en": "sing in",
+    "fr": "s'identifier",
+    "af": "teken aan",
+    "ar": "تسجيل الدخول"
+  },
+  "booking_page_departure_title": {
+    "en": "departure",
+    "fr": "Départ",
+    "af": "vertrek",
+    "ar": "الاقلاع"
+  },
+  "booking_page_return_title": {
+    "en": "return",
+    "fr": "revenir",
+    "af": "terugkeer",
+    "ar": "إرجاع"
+  },
+  "booking_page_card_title_buses_found": {
+    "en": "buses found",
+    "fr": "bus trouvés",
+    "af": "busse gevind",
+    "ar": "وجدت الحافلات"
+  },
+  "booking_page_card_title_departure": {
+    "en": "departure",
+    "fr": "Départ",
+    "af": "vertrek",
+    "ar": "الاقلاع"
+  },
+  "booking_page_card_title_duration": {
+    "en": "duration",
+    "fr": "durée",
+    "af": "duur",
+    "ar": "المدة الزمنية"
+  },
+  "booking_page_card_title_arraival": {
+    "en": "arrival",
+    "fr": "Arrivées",
+    "af": "aankoms",
+    "ar": "وصول"
+  },
+  "booking_page_card_title_ratings": {
+    "en": "ratings",
+    "fr": "notes",
+    "af": "graderings",
+    "ar": "التقييمات"
+  },
+  "booking_page_card_title_fare": {
+    "en": "fare",
+    "fr": "tarif",
+    "af": "tarief",
+    "ar": "أجرة"
+  },
+  "booking_page_card_title_distance": {
+    "en": "Distance",
+    "fr": "Distance",
+    "af": "afstand",
+    "ar": "مسافة"
+  },
+
+  "booking_page_card_title_seat_available": {
+    "en": "seat available",
+    "fr": "siège disponible",
+    "af": "sitplek beskikbaar",
+    "ar": "المقعد متاح"
+  },
+  "booking_page_card_bus_photos_btn": {
+    "en": "bus photos",
+    "fr": "photos d'autobus",
+    "af": "bus foto's",
+    "ar": "صور الحافلة"
+  },
+  "booking_page_card_reviews_btn": {
+    "en": "reviews",
+    "fr": "Commentaires",
+    "af": "resensies",
+    "ar": "المراجعات"
+  },
+  "booking_page_card_booking_policies_btn": {
+    "en": "booking policies",
+    "fr": "politiques de réservation",
+    "af": "besprekingsbeleide",
+    "ar": "سياسات الحجز"
+  },
+  "booking_page_card_reveiw_btn": {
+    "en": "review",
+    "fr": "examen",
+    "af": "resensie",
+    "ar": "إعادة النظر"
+  },
+  "booking_page_card_view_seats_btn": {
+    "en": "view seat",
+    "fr": "voir le siège",
+    "af": "sitplek uitkyk",
+    "ar": "عرض المقعد"
+  },
+  "booking_page_card_book_btn": {
+    "en": "book now",
+    "fr": "Reserve maintenant",
+    "af": "bespreek nou",
+    "ar": "احجز الآن"
+  },
+  "mobile_booking_page_card_book_btn": {
+    "en": "book now",
+    "fr": "Reserve maintenant",
+    "af": "bespreek nou",
+    "ar": "احجز الآن"
+  },
+  "booking_page_seat_legend": {
+    "en": "seat legend",
+    "fr": "légende du siège",
+    "af": "sitplek legende",
+    "ar": "أسطورة المقعد"
+  },
+  "booking_page_unavailable": {
+    "en": "unavailable",
+    "fr": "indisponible",
+    "af": "nie beskikbaar nie",
+    "ar": "غير متوفره"
+  },
+  "booking_page_available": {
+    "en": "available",
+    "fr": "disponible",
+    "af": "beskikbaar",
+    "ar": "متوفرة"
+  },
+  "booking_page_book": {
+    "en": "book",
+    "fr": "livre",
+    "af": "boek",
+    "ar": "الكتاب"
+  },
+  "booking_page_adul_seat": {
+    "en": "adult seat",
+    "fr": "siège adulte",
+    "af": "volwasse sitplek",
+    "ar": "مقعد الكبار"
+  },
+  "booking_page_children_seat": {
+    "en": "children seat",
+    "fr": "siège enfant",
+    "af": "kinder sitplek",
+    "ar": "مقعد الأطفال"
+  },
+  "booking_page_special_seat": {
+    "en": "special seat",
+    "fr": "siège spécial",
+    "af": "spesiale sitplek",
+    "ar": "مقعد خاص"
+  },
+  "booking_page_bus_facilities": {
+    "en": "Bus Facilities",
+    "fr": "Installations d'autobus",
+    "af": "Busfasiliteite",
+    "ar": "مرافق الحافلات"
+  },
+  "booking_page_boarding_title": {
+    "en": "boarding point",
+    "fr": "point d'embarquement",
+    "af": "instappunt",
+    "ar": "نقطة الصعود"
+  },
+  "booking_page_dropping_title": {
+    "en": "dropping point",
+    "fr": "point de chute",
+    "af": "valpunt",
+    "ar": "نقطة اسقاط"
+  },
+  "selected_boarding_title": {
+    "en": "boarding point ",
+    "fr": "point d'embarquement ",
+    "af": "instappunt",
+    "ar": "نقطة الصعود"
+  },
+  "selected_dropping_title": {
+    "en": "dropping point",
+    "fr": "point de chute",
+    "af": "valpunt",
+    "ar": "نقطة اسقاط"
+  },
+  "booking_page_fare_details_title": {
+    "en": "fare details",
+    "fr": "détails du tarif",
+    "af": "tarief besonderhede",
+    "ar": "تفاصيل الأجرة"
+  },
+  "booking_page_child_price_title": {
+    "en": "child price",
+    "fr": "tarif enfant",
+    "af": "kinderprys",
+    "ar": "سعر الطفل"
+  },
+  "booking_page_adult_price_title": {
+    "en": "adult price",
+    "fr": "prix adulte",
+    "af": "volwasse prys",
+    "ar": "سعر الكبار"
+  },
+  "booking_page_special_price_title": {
+    "en": "special price",
+    "fr": "prix spécial",
+    "af": "spesiale prys",
+    "ar": "سعر خاص"
+  },
+  "booing_page_total_ammount_title": {
+    "en": "amount",
+    "fr": "montante",
+    "af": "bedrag",
+    "ar": "مقدار"
+  },
+  "booing_page_total_ammount_currency": {
+    "en": "Tk",
+    "fr": "Tk",
+    "af": "Tk",
+    "ar": ""
+  },
+  "booking_page_Proccess_to_book_btn": {
+    "en": "proccess to book",
+    "fr": "processus de réservation",
+    "af": "proses om te bespreek",
+    "ar": "عملية للحجز"
+  },
+  "booking_page_tax_message": {
+    "en": "Taxes will be calculated during payment",
+    "fr": "Les taxes seront calculées lors du paiement",
+    "af": "Belasting sal tydens betaling bereken word",
+    "ar": "سيتم احتساب الضرائب أثناء الدفع"
+  },
+  "side_bar_price_range_start": {
+    "en": "Price",
+    "fr": "Prix",
+    "af": "Prys",
+    "ar": "سعر"
+  },
+  "side_bar_price_range_end": {
+    "en": "Reset",
+    "fr": "Réinitialiser",
+    "af": "Stel terug",
+    "ar": "إعادة ضبط"
+  },
+  "side_bar_bus_types_title": {
+    "en": "bus types",
+    "fr": "type d'autobus",
+    "af": "bus tipes",
+    "ar": "أنواع الحافلات"
+  },
+  "side_bar_departure_time_title": {
+    "en": "departure time",
+    "fr": "heure de départ",
+    "af": "vertrektyd",
+    "ar": "وقت المغادرة"
+  },
+  "side_bar_arrival_times_title": {
+    "en": "arrival time",
+    "fr": "heure d'arrivée",
+    "af": "aankoms tyd",
+    "ar": "وقت الوصول"
+  },
+  "side_bar_fare_summery_title": {
+    "en": "fare summery",
+    "fr": "récapitulatif des tarifs",
+    "af": "tarief opsomming",
+    "ar": "ملخص الأجرة"
+  },
+  "side_bar_base_fare_title": {
+    "en": "base fare",
+    "fr": "tarif de base",
+    "af": "basis tarief",
+    "ar": "الاجرة الاساسية"
+  },
+  "side_bar_tax_title": {
+    "en": "tax",
+    "fr": "impôt",
+    "af": "belasting",
+    "ar": "ضريبة"
+  },
+  "side_bar_return_ticket_fare_title": {
+    "en": "return ticket fare",
+    "fr": "billet aller-retour",
+    "af": "retoerkaartjie tarief",
+    "ar": "أجرة تذكرة العودة"
+  },
+  "side_bar_return_ticket_tax_title": {
+    "en": "return ticket tax",
+    "fr": "taxe sur les billets de retour",
+    "af": "retoerkaartjie belasting",
+    "ar": "ضريبة تذكرة العودة"
+  },
+  "side_bar_sub_total_ammount_title": {
+    "en": "subtotal amount",
+    "fr": "montant du sous-total",
+    "af": "subtotale bedrag",
+    "ar": "المبلغ الاجمالي"
+  },
+  "side_bar_total_discount": {
+    "en": "discount",
+    "fr": "remise",
+    "af": "afslag",
+    "ar": "تخفيض"
+  },
+  "side_bar_total_ammount": {
+    "en": "total amount",
+    "fr": "montant total",
+    "af": "totale bedrag",
+    "ar": "المبلغ الإجمالي"
+  },
+  "side_bar_dicount_title": {
+    "en": "apply discount",
+    "fr": "appliquer la remise",
+    "af": "afslag toepas",
+    "ar": "تطبيق الخصم"
+  },
+  "side_bar_dicount_sub_title": {
+    "en": "Have a Discount/ Promio code to Redeem",
+    "fr": "Avoir un rabais/ Code promo à utiliser",
+    "af": "Het 'n afslag/ Promio-kode om te gebruik",
+    "ar": "احصل على كود خصم / بروميو للاسترداد"
+  },
+
+  "side_bar_promo_code_text": {
+    "en": "promo code",
+    "fr": "code promo",
+    "af": "promosie kode",
+    "ar": "رمز ترويجي"
+  },
+  "side_bar_promo_code_btn": {
+    "en": "apply",
+    "fr": "appliquer",
+    "af": " aansoek doen",
+    "ar": "يتقدم"
+  },
+  "checkout_page_sub_title": {
+    "en": "travel details",
+    "fr": "détails du voyage",
+    "af": "reisbesonderhede",
+    "ar": "تفاصيل السفر"
+  },
+  "checkout_page_question": {
+    "en": "have an account?",
+    "fr": "avoir un compte?",
+    "af": "het jy 'n rekening?",
+    "ar": "لديك حساب؟"
+  },
+  "checkout_page_login_page_link": {
+    "en": "click here to login",
+    "fr": "Cliquez ici pour vous identifier",
+    "af": "klik hier om aan te meld",
+    "ar": "انقر هنا لتسجيل الدخول"
+  },
+  "checkout_page_contact_details_text": {
+    "en": "contact details",
+    "fr": "détails du contact",
+    "af": "kontakbesonderhede",
+    "ar": "بيانات المتصل"
+  },
+  "checkout_page_contact_details_input_email": {
+    "en": "Email",
+    "fr": "E-mail",
+    "af": "E-pos",
+    "ar": "البريد الإلكتروني"
+  },
+  "checkout_page_contact_details_input_phone": {
+    "en": "Phone",
+    "fr": "Téléphoner",
+    "af": "Foon",
+    "ar": "هاتف"
+  },
+  "checkout_page_text": {
+    "en": "Your booking details will be sent to this email address and mobile number.",
+    "fr": "Les détails de votre réservation seront envoyés à cette adresse e-mail et à ce numéro de téléphone portable.",
+    "af": "Jou besprekingbesonderhede sal na hierdie e-posadres en selfoonnommer gestuur word.",
+    "ar": "سيتم إرسال تفاصيل حجزك إلى عنوان البريد الإلكتروني هذا ورقم الهاتف المحمول."
+  },
+  "checkout_page_title": {
+    "en": "traveller information",
+    "fr": "informations aux voyageurs",
+    "af": "reisiger inligting",
+    "ar": "معلومات المسافر"
+  },
+  "checkout_page_passenger_title": {
+    "en": "passenger",
+    "fr": "passagère",
+    "af": "passasier",
+    "ar": "راكب"
+  },
+  "checkout_page_passenger_input_text": {
+    "en": "Given name",
+    "fr": "Prénom",
+    "af": "Noemnaam",
+    "ar": "الاسم المعطى"
+  },
+  "checkout_page_nid_title": {
+    "en": "NID / Passport",
+    "fr": "JNV / Passeport",
+    "af": "NID / Paspoort",
+    "ar": "NID / جواز السفر"
+  },
+  "checkout_page_nid_input_text": {
+    "en": "Ducoment No",
+    "fr": "Document n°",
+    "af": "Dokument No",
+    "ar": "رقم الوثيقة"
+  },
+  "checkout_page_zip_title": {
+    "en": "zip code",
+    "fr": "code postal",
+    "af": "Poskode",
+    "ar": "الرمز البريدي"
+  },
+  "checkout_page_zip_input_text": {
+    "en": "Zip Code",
+    "fr": "code postal",
+    "af": "Poskode",
+    "ar": "الرمز البريدي"
+  },
+  "checkout_page_city_input_text": {
+    "en": "City",
+    "fr": "Ville",
+    "af": "Stad",
+    "ar": "مدينة"
+  },
+  "checkout_page_address_title": {
+    "en": "address",
+    "fr": "adresse",
+    "af": "adres",
+    "ar": "تبوك"
+  },
+  "checkout_page_address_input_text": {
+    "en": "Address",
+    "fr": "adresse",
+    "af": "adres",
+    "ar": "تبوك"
+  },
+  "checkout_page_country_title": {
+    "en": "country name",
+    "fr": "nom du pays",
+    "af": "land se naam",
+    "ar": "اسم الدولة"
+  },
+  "checkout_page_country_input_text": {
+    "en": "select..",
+    "fr": "sélectionner..",
+    "af": "kies..",
+    "ar": "تحديد.."
+  },
+  "checkout_page_checkbox_text": {
+    "en": "Create Account?",
+    "fr": "Créer un compte?",
+    "af": "Skep rekening?",
+    "ar": "إصنع حساب؟"
+  },
+  "checkout_page_payNow_radio_btn": {
+    "en": "Pay Now",
+    "fr": "Payez Maintenant",
+    "af": "betaal nou",
+    "ar": "ادفع الآن"
+  },
+  "checkout_page_payLatter_radio_btn": {
+    "en": "Pay Later",
+    "fr": "Payer Plus Tard",
+    "af": "later betaal",
+    "ar": "ادفع لاحقا"
+  },
+  "checkout_page_cancel_btn": {
+    "en": "Cancel",
+    "fr": "Annuler",
+    "af": "Kanselleer",
+    "ar": "إلغاء"
+  },
+  "checkout_page_make_payment_btn": {
+    "en": "Make Payment",
+    "fr": "Effectuer Le Paiement",
+    "af": "Maak Betaling",
+    "ar": "قم بالدفع"
+  },
+  "checkout_page_book_your_ticket_btn": {
+    "en": "book your ticket",
+    "fr": "réservez votre billet",
+    "af": "bespreek jou kaartjie",
+    "ar": "احجز تذكرتك"
+  },
+  "tickets_page_navigation_laguess_btn": {
+    "en": "laguess",
+    "fr": "lagues",
+    "af": "lag",
+    "ar": "لاغوس"
+  },
+  "tickets_page_navigation_profile_btn": {
+    "en": "profile",
+    "fr": "profile",
+    "af": "profiel",
+    "ar": "الملف الشخصي"
+  },
+  "tickets_page_navigation_change_password_btn": {
+    "en": "change password",
+    "fr": "changer le mot de passe",
+    "af": "verander wagwoord",
+    "ar": "غير كلمة السر"
+  },
+  "tickets_page_navigation_logout_btn": {
+    "en": "logout",
+    "fr": "Se déconnecter",
+    "af": "teken uit",
+    "ar": "تسجيل خروج"
+  },
+  "tickets_page_navigation_tickets_btn": {
+    "en": "tickets",
+    "fr": "des billets",
+    "af": "kaartjies",
+    "ar": "تذاكر"
+  },
+  "tickets_page_booking_id": {
+    "en": "Booking Id",
+    "fr": "Identifiant de réservation",
+    "af": "Besprekings-ID",
+    "ar": "معرف الحجز"
+  },
+  "tickets_page_payment_btn": {
+    "en": "payment",
+    "fr": "Paiement",
+    "af": "betaling",
+    "ar": "دفع"
+  },
+  "tickets_page_view_btn": {
+    "en": "view",
+    "fr": "voir",
+    "af": "beskou",
+    "ar": "رأي"
+  },
+  "tickets_page_new_password_title": {
+    "en": "new password",
+    "fr": "nouveau mot de passe",
+    "af": "Nuwe Wagwoord",
+    "ar": "كلمة السر الجديدة"
+  },
+  "tickets_page_new_password_input": {
+    "en": "new password",
+    "fr": "nouveau mot de passe",
+    "af": "Nuwe Wagwoord",
+    "ar": "كلمة السر الجديدة"
+  },
+  "tickets_page_re_password_input": {
+    "en": "new password",
+    "fr": "nouveau mot de passe",
+    "af": "Nuwe Wagwoord",
+    "ar": "كلمة السر الجديدة"
+  },
+  "tickets_page_old_password_title": {
+    "en": "old password",
+    "fr": "ancien mot de passe",
+    "af": "Ou wagwoord",
+    "ar": "كلمة المرور القديمة"
+  },
+  "tickets_page_old_password_input": {
+    "en": "old password",
+    "fr": "ancien mot de passe",
+    "af": "Ou wagwoord",
+    "ar": "كلمة المرور القديمة"
+  },
+  "tickets_page_change_password_confirm_btn": {
+    "en": "confirm",
+    "fr": "confirmer",
+    "af": "bevestig",
+    "ar": "تؤكد"
+  },
+  "ticket_traking_page_name": {
+    "en": "name",
+    "fr": "Nom",
+    "af": "naam",
+    "ar": "اسم"
+  },
+  "ticket_traking_page_phone": {
+    "en": "phone",
+    "fr": "téléphoner",
+    "af": "foon",
+    "ar": "هاتف"
+  },
+  "ticket_traking_page_booking_id": {
+    "en": "booking id",
+    "fr": "identifiant de réservation",
+    "af": "bespreking ID",
+    "ar": "معرف الحجز"
+  },
+  "ticket_traking_page_pick_laction": {
+    "en": "pickup location",
+    "fr": "lieu de ramassage",
+    "af": "afhaalplek",
+    "ar": "اختر موقعا"
+  },
+  "ticket_traking_page_drop_laction": {
+    "en": "drop location",
+    "fr": "lieu de dépôt",
+    "af": "val plek",
+    "ar": "إسقاط الموقع"
+  },
+  "ticket_traking_page_booking_date": {
+    "en": "booking date",
+    "fr": "date de réservation",
+    "af": "besprekingsdatum",
+    "ar": "تاريخ الحجز"
+  },
+  "ticket_traking_page_journey_date": {
+    "en": "journey date",
+    "fr": "date du voyage",
+    "af": "reis datum",
+    "ar": "تاريخ الرحلة"
+  },
+  "ticket_traking_page_seat_number": {
+    "en": "seat number",
+    "fr": "numéro de siège",
+    "af": "sitpleknommer",
+    "ar": "رقم المقعد"
+  },
+  "ticket_traking_page_ammount": {
+    "en": "amount",
+    "fr": "montante",
+    "af": "bedrag",
+    "ar": "مقدار"
+  },
+  "ticket_traking_page_discount": {
+    "en": "discount",
+    "fr": "remise",
+    "af": "afslag",
+    "ar": "تخفيض"
+  },
+  "ticket_traking_page_total_tax": {
+    "en": "total tax",
+    "fr": "taxe total",
+    "af": "totale belasting",
+    "ar": "مجموع الضريبة"
+  },
+  "ticket_traking_page_total": {
+    "en": "total",
+    "fr": "totale",
+    "af": "totaal",
+    "ar": "المجموع"
+  },
+  "ticket_traking_page_due": {
+    "en": "due",
+    "fr": "exigible",
+    "af": "verskuldig",
+    "ar": "بسبب"
+  },
+  "ticket_traking_page_print_btn": {
+    "en": "print",
+    "fr": "imprimer",
+    "af": "druk",
+    "ar": "مطبعة"
+  },
+  "ticket_traking_page_download_btn": {
+    "en": "download",
+    "fr": "Télécharger",
+    "af": "Aflaai",
+    "ar": "تحميل"
+  },
+  "conact_us_page_title": {
+    "en": "Don't hesitate to contact with us for any kind of information",
+    "fr": "N'hésitez pas à nous contacter pour tout type d'information",
+    "af": "Don't hesitate to contact with us for any kind of information",
+    "ar": "لا تتردد في الاتصال بنا للحصول على أي نوع من المعلومات"
+  },
+  "conact_us_page_email_title": {
+    "en": "Email : ",
+    "fr": "E-mail : ",
+    "af": "E-pos : ",
+    "ar": "البريد الإلكتروني :"
+  },
+  "conact_us_page_phone_title": {
+    "en": "Phone : ",
+    "fr": "Téléphoner : ",
+    "af": "Foon : ",
+    "ar": "هاتف :"
+  },
+  "conact_us_page_followon_title": {
+    "en": "Follow Us On :",
+    "fr": "Suivez-nous sur :",
+    "af": "Volg ons op :",
+    "ar": "اتبعنا :"
+  }
+}

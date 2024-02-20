@@ -1,0 +1,10 @@
+.navbar-nav {
+  display: flex;
+  flex-direction: row;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+.ms-auto {
+  margin-left: auto !important;
+}

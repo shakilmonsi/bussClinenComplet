@@ -1,0 +1,6 @@
+[
+  { "id": 1, "name": "rocket", "image": "https://i.ibb.co/bskVjCN/rocket.png" },
+  { "id": 2, "name": "paypal", "image": "https://i.ibb.co/jzyrCkx/paypal.png" },
+  { "id": 3, "name": "bkash", "image": "https://i.ibb.co/Cz5Gkbp/bkash.png" },
+  { "id": 4, "name": "nagad", "image": "https://i.ibb.co/vhs2mQs/nagad.png" }
+]

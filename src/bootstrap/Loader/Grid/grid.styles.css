@@ -1,0 +1,98 @@
+.ra-grid {
+  display: inline-block;
+  position: relative;
+  width: 80px;
+  height: 80px;
+}
+.ra-grid div {
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: #fff;
+  animation: raGrid 1.2s linear infinite;
+}
+.ra-grid.primary div {
+  background: rgba(var(--bs-primary-rgb));
+}
+.ra-grid.secondary div {
+  background: rgba(var(--bs-secondary-rgb));
+}
+.ra-grid.success div {
+  background: rgba(var(--bs-success-rgb));
+}
+.ra-grid.info div {
+  background: rgba(var(--bs-info-rgb));
+}
+.ra-grid.warning div {
+  background: rgba(var(--bs-warning-rgb));
+}
+.ra-grid.danger div {
+  background: rgba(var(--bs-danger-rgb));
+}
+.ra-grid.light div {
+  background: rgba(var(--bs-light-rgb));
+}
+.ra-grid.dark div {
+  background: rgba(var(--bs-dark-rgb));
+}
+.ra-grid.black div {
+  background: rgba(var(--bs-black-rgb));
+}
+.ra-grid.white div {
+  background: rgba(var(--bs-white-rgb));
+}
+.ra-grid div:nth-child(1) {
+  top: 8px;
+  left: 8px;
+  animation-delay: 0s;
+}
+.ra-grid div:nth-child(2) {
+  top: 8px;
+  left: 32px;
+  animation-delay: -0.4s;
+}
+.ra-grid div:nth-child(3) {
+  top: 8px;
+  left: 56px;
+  animation-delay: -0.8s;
+}
+.ra-grid div:nth-child(4) {
+  top: 32px;
+  left: 8px;
+  animation-delay: -0.4s;
+}
+.ra-grid div:nth-child(5) {
+  top: 32px;
+  left: 32px;
+  animation-delay: -0.8s;
+}
+.ra-grid div:nth-child(6) {
+  top: 32px;
+  left: 56px;
+  animation-delay: -1.2s;
+}
+.ra-grid div:nth-child(7) {
+  top: 56px;
+  left: 8px;
+  animation-delay: -0.8s;
+}
+.ra-grid div:nth-child(8) {
+  top: 56px;
+  left: 32px;
+  animation-delay: -1.2s;
+}
+.ra-grid div:nth-child(9) {
+  top: 56px;
+  left: 56px;
+  animation-delay: -1.6s;
+}
+@keyframes raGrid {
+  0%,
+  100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.5;
+  }
+}

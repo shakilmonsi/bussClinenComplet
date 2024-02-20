@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "from": "Dhaka",
+    "to": "Barisal",
+    "price": "254",
+    "img": "https://i.ibb.co/hCnXhzV/73068ee71f457b094b91a4e484a9727d-2x.jpg"
+  },
+  {
+    "id": 2,
+    "from": "Dhaka",
+    "to": "Noakhali",
+    "price": "126",
+    "img": "https://i.ibb.co/0XWbKtK/0b9b7b15496b152f4f6bdb070bf73ca5.jpg"
+  },
+  {
+    "id": 3,
+    "from": "Dhaka",
+    "to": "Khulna",
+    "price": "644",
+    "img": "https://i.ibb.co/42N4m9C/5854107ee726827801b2ab228ca15a9e.jpg"
+  },
+  {
+    "id": 4,
+    "from": "Dhaka",
+    "to": "Barisal",
+    "price": "145",
+    "img": "https://i.ibb.co/hCnXhzV/73068ee71f457b094b91a4e484a9727d-2x.jpg"
+  },
+  {
+    "id": 5,
+    "from": "Dhaka",
+    "to": "Noakhali",
+    "price": "674",
+    "img": "https://i.ibb.co/hCnXhzV/73068ee71f457b094b91a4e484a9727d-2x.jpg"
+  },
+  {
+    "id": 6,
+    "from": "Dhaka",
+    "to": "Barisal",
+    "price": "154",
+    "img": "https://i.ibb.co/0XWbKtK/0b9b7b15496b152f4f6bdb070bf73ca5.jpg"
+  }
+]

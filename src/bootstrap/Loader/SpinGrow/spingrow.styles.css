@@ -1,0 +1,83 @@
+@-webkit-keyframes spinnerGrow {
+  0% {
+    transform: scale(0);
+  }
+  50% {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@keyframes spinnerGrow {
+  0% {
+    transform: scale(0);
+  }
+  50% {
+    opacity: 1;
+    transform: none;
+  }
+}
+.spinner-grow {
+  display: inline-block;
+  width: 2rem;
+  height: 2rem;
+  vertical-align: -0.125em;
+  background-color: currentColor;
+  border-radius: 50%;
+  opacity: 0;
+  -webkit-animation: 0.75s linear infinite spinnerGrow;
+  animation: 0.75s linear infinite spinnerGrow;
+}
+
+.spinner-grow.primary {
+  color: rgba(var(--bs-primary-rgb));
+}
+
+.spinner-grow.secondary {
+  color: rgba(var(--bs-secondary-rgb));
+}
+
+.spinner-grow.success {
+  color: rgba(var(--bs-success-rgb));
+}
+
+.spinner-grow.info {
+  color: rgba(var(--bs-info-rgb));
+}
+
+.spinner-grow.warning {
+  color: rgba(var(--bs-warning-rgb));
+}
+
+.spinner-grow.danger {
+  color: rgba(var(--bs-danger-rgb));
+}
+
+.spinner-grow.light {
+  color: rgb(221 221 221);
+}
+
+.spinner-grow.dark {
+  color: rgba(var(--bs-dark-rgb));
+}
+
+.spinner-grow.black {
+  color: rgba(var(--bs-black-rgb));
+}
+
+.spinner-grow.white {
+  color: rgba(var(--bs-white-rgb));
+}
+
+.spinner-grow-sm {
+  width: 1rem;
+  height: 1rem;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .spinner-border,
+  .spinner-grow {
+    -webkit-animation-duration: 1.5s;
+    animation-duration: 1.5s;
+  }
+}
